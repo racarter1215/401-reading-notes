@@ -8,6 +8,7 @@
 ### [Reading 4](https://racarter1215.github.io/reading-notes-401/reading-04)
 ### [Reading 5](https://racarter1215.github.io/reading-notes-401/reading-05)
 ### [Reading 6](https://racarter1215.github.io/reading-notes-401/reading-06)
+### [Reading 6a](https://racarter1215.github.io/reading-notes-401/reading-06a)
 ### [Reading 7](https://racarter1215.github.io/reading-notes-401/reading-07)
 ### [Reading 8](https://racarter1215.github.io/reading-notes-401/reading-08)
 ### [Reading 9](https://racarter1215.github.io/reading-notes-401/reading-09)
