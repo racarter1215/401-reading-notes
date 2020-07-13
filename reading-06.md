@@ -12,6 +12,8 @@
 
 ##### See https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance for example
 
+##### Below is an example of class relationships in C#
+
 // WorkItem implicitly inherits from the Object class.
 public class WorkItem
 {
@@ -98,3 +100,11 @@ public class ChangeRequest : WorkItem
         this.originalItemID = originalID;
     }
 }
+
+##### Abstract method: method must be overridden in any non-abstract class that directly inherits from that class. 
+
+##### Virtual method: When a base class declares a method as virtual, a derived class can override the method with its own implementation.
+
+##### Interface: a reference type that defines a set of members.
+
+### Abstract and Sealed Classes and Class Members
