@@ -1,1 +1,1 @@
-
+### I am MUCH more comfortable with unit testing. I know how to create a unit testing file, how to link it to the program.cs and how to use both [Fact] and [Theory] as appropriate. Initially, I had trouble even linking the test doc to the program.cs, let alone conceptualize how to create the test. Now, while I'm not perfect at it, I am significantly better
