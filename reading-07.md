@@ -6,10 +6,10 @@
 in a collection are traversed—or enumerated—in a forward-only manner. 
 
 ##### Example:
-public interface IEnumerator
-{
- bool MoveNext();
- object Current { get; }
- void Reset();
-}
+##### public interface IEnumerator
+##### {
+#####  bool MoveNext();
+#####  object Current { get; }
+#####  void Reset();
+##### }
 
