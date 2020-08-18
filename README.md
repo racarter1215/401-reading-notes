@@ -23,3 +23,8 @@
 ### [Reading 18](https://racarter1215.github.io/reading-notes-401/reading-18)
 ### [Reading 19](https://racarter1215.github.io/reading-notes-401/reading-19)
 ### [Reading 20](https://racarter1215.github.io/reading-notes-401/reading-20)
+### [Reading 21](https://racarter1215.github.io/reading-notes-401/reading-21)
+### [Reading 22](https://racarter1215.github.io/reading-notes-401/reading-22)
+### [Reading 23](https://racarter1215.github.io/reading-notes-401/reading-23)
+### [Reading 24](https://racarter1215.github.io/reading-notes-401/reading-24)
+### [Reading 25](https://racarter1215.github.io/reading-notes-401/reading-25)
